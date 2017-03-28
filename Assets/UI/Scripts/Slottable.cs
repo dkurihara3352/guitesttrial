@@ -27,7 +27,8 @@ public class Slottable : MonoBehaviour, IInitializePotentialDragHandler, IBeginD
 	
 	GameObject newObj;
 
-
+	/*	new comment added on developV2 branch
+	*/
 
 	GameObject m_draggedIcon;
 	
