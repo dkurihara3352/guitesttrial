@@ -26,7 +26,9 @@ public class Slottable : MonoBehaviour, IInitializePotentialDragHandler, IBeginD
 	}
 	
 	GameObject newObj;
-	
+
+	Color newColor2;
+
 	GameObject m_draggedIcon;
 	
 	RectTransform m_draggedPlane;
